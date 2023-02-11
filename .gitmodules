@@ -1,0 +1,3 @@
+[submodule "addchain"]
+	path = addchain
+	url = https://github.com/mmcloughlin/addchain
